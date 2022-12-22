@@ -4,7 +4,7 @@ You can download the code or clone this project in your text editor.
 
 To clone this project, please ensure you have git installed and type the following code:
 
-git clone 'https://github.com/harshil30401/KelpAssignment2022.git'
+git clone 'https://github.com/harshil30401/KelpAssignment.git'
 
 Please make sure that "KelpAssignment" is a package so please save it inside a new folder and open that new folder in the text editor.
 
