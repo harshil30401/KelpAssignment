@@ -236,6 +236,7 @@ public class OptionMenu extends Logic {
             List<String> retrievedValues = data.get(code);
             System.out.println();
             System.out.println(retrievedValues.get(0) + " " + retrievedValues.get(1));
+            System.out.println();
         }else{
             System.out.println("This Account does not exist!");
         }
