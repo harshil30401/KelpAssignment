@@ -7,7 +7,7 @@ To clone this project, please ensure you have git installed and type the followi
 git clone 'https://github.com/harshil30401/KelpAssignment2022.git'
 
 
-Please make sure that you have the "KelpAssignment" package inside a new folder and you open that new folder.
+Please make sure that "KelpAssignment" is a package so please save it inside a new folder and open that new folder in the text editor.
 
 I have tried to give the details of the code as comments in the code itself. 
 
