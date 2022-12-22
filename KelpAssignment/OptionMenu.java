@@ -12,7 +12,7 @@ public class OptionMenu extends Logic {
 
 
     //This Map Interface stores all the user data until the while loop is running.
-    //As a result, all the data will be lost if one interrupts or quits the terminal
+    //As a result, all the data will be lost if one interrupts or quits the terminal.
     //In practical scenarios, using a database to store the user data would be preferred.
 
     Map<String, ArrayList<String>> data = new HashMap<String, ArrayList<String>>();
