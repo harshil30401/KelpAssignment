@@ -14,4 +14,5 @@ Any feedback would be appreciated.
 
 Here's the Planning of the Assignment.
 
-
+![Page1](https://user-images.githubusercontent.com/67827200/209057880-d3886921-d70c-4593-bf90-47f369962978.JPG)
+![Page2](https://user-images.githubusercontent.com/67827200/209057896-2743f564-d190-47d7-939b-546a4b4379a3.JPG)
