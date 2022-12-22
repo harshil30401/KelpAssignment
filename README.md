@@ -9,12 +9,6 @@ git clone 'https://github.com/harshil30401/KelpAssignment2022.git'
 
 Please make sure that you have the "KelpAssignment" package inside a new folder and you open that new folder
 
-  -"New Folder"  <-- Open This folder in your text editor.
-    -KelpAssignment
-      -Logic.java
-      -Main.java
-      -OptionMenu.java
-
 Here's the Planning of the Assignment.
 
 
