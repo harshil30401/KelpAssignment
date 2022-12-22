@@ -68,7 +68,7 @@ public class OptionMenu extends Logic {
 
 
     public void getCommand() {
-        System.out.println("You may start writing the commands: (Type 'q' to quit)");
+        System.out.println("You may start writing the commands: ");
 
 
 
