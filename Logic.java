@@ -1,6 +1,5 @@
 package KelpAssignment;
 
-
 // All the calculations will be done here.
 
 public class Logic {
