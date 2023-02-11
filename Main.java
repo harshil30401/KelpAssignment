@@ -1,7 +1,6 @@
 package KelpAssignment;
 import java.io.IOException;
 
-
 //Entry Point: This would run the cli code. 
 //Please run this java file.
 
