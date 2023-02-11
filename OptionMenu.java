@@ -6,7 +6,6 @@ import java.util.regex.Pattern;
 //This will provide the cli. 
 public class OptionMenu extends Logic {
 
-
     //For receiving the user input.
     Scanner userInput = new Scanner(System.in);
 
