@@ -1,4 +1,4 @@
-# KelpAssignment2022
+# Kelp Assignment 2023
 
 As I was expected to build a Banking Application, I chose JAVA Programming Language as it is one of the most popular programming languages for Banking Applications that provides the best data security as compared to other programming languages like Python. 
 
@@ -10,7 +10,7 @@ git clone 'https://github.com/harshil30401/KelpAssignment.git'
 
 Note, "KelpAssignment" is a package.
 
-I have tried to give the details of the code as comments in the code itself.
+I have tried to give the details of the code as comments in the code itself in case you have any questions or improvement suggestions please email at `harshilpatel30401@gmail.com`
 
 Any feedback would be appreciated.
 
